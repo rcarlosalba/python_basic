@@ -1,3 +1,6 @@
+menu = 
+
+
 dinares = input('Ingresa la cantidad de dinares a convertir: ')
 dinares = float(dinares)
 valor_dolar = 1.41
